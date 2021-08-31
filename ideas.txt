@@ -1,0 +1,5 @@
+Idle/clicker game app - some pixel thing to click, menu for upgrades, visual update the pixel getting clicked (hard), clicking animation
+
+Tennis app where it uses accelarametor. Could do something insanely hard where you link your phone with a desktop app and then you can play tennis. Can you bluetooth wii remote to phone.
+
+Still doing the Machine Learning guitar app (can tell what chords/notes you/a video are playing)
